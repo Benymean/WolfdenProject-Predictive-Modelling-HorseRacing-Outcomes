@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I, Ben, am pleased to participate in an internship challenge with Wolfden, focusing on leveraging Machine Learning to solve complex problems in horse racing predictions. This project is part of my application process for the internship program and is designed to showcase my analytical abilities and innovative approach to predictive modeling.
+I, Ben Khalesi, am pleased to participate in an internship challenge with Wolfden, focusing on leveraging Machine Learning to solve complex problems in horse racing predictions. This project is part of my application process for the internship program and is designed to showcase my analytical abilities and innovative approach to predictive modeling.
 
 ## Executive Summary
 
